@@ -1,0 +1,8 @@
+﻿  03_성긴동기화리스트.cpp
+C:\Users\syj24\source\repos\MultiCore\03_성긴동기화리스트\03_성긴동기화리스트\03_성긴동기화리스트.cpp(177,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating code
+  2 of 248 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  03_성긴동기화리스트.vcxproj -> C:\Users\syj24\source\repos\MultiCore\03_성긴동기화리스트\x64\Release\03_성긴동기화리스트.exe

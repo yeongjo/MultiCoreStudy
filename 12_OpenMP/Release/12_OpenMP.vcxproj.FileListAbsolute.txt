@@ -1,0 +1,1 @@
+C:\Users\syj24\source\repos\MultiCore\12_OpenMP\Release\12_OpenMP.exe

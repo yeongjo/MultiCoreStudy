@@ -1,0 +1,3 @@
+﻿  11_SkipList.cpp
+C:\Users\syj24\source\repos\MultiCore\11_SkipList\11_SkipList\11_SkipList.cpp(1296,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+  11_SkipList.vcxproj -> C:\Users\syj24\source\repos\MultiCore\11_SkipList\11_SkipList\Debug\11_SkipList.exe

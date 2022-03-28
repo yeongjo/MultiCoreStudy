@@ -1,0 +1,11 @@
+﻿  11_SkipList.cpp
+C:\Users\syj24\source\repos\MultiCore\11_SkipList\11_SkipList\11_SkipList.cpp(218,15): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  11_SkipList.vcxproj -> C:\Users\syj24\source\repos\MultiCore\11_SkipList\11_SkipList\x64\Release\11_SkipList.exe

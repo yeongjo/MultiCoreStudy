@@ -1,0 +1,14 @@
+﻿  08_List_NonBlockingAlgorithm.cpp
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(111,1): warning C4311: 'reinterpret_cast': pointer truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(111,1): warning C4302: 'reinterpret_cast': truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(115,1): warning C4311: 'reinterpret_cast': pointer truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(115,1): warning C4302: 'reinterpret_cast': truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(123,1): warning C4311: 'reinterpret_cast': pointer truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(123,1): warning C4302: 'reinterpret_cast': truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(133,1): warning C4312: 'reinterpret_cast': conversion from 'long' to 'LFNODE *' of greater size
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(147,1): warning C4311: 'reinterpret_cast': pointer truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(147,1): warning C4302: 'reinterpret_cast': truncation from 'LFNODE *' to 'long'
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(148,15): warning C4805: '==': unsafe mix of type 'bool' and type 'long' in operation
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(268,11): warning C4101: 'pred': unreferenced local variable
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(509,9): warning C4101: 'pred': unreferenced local variable
+  08_List_NonBlockingAlgorithm.vcxproj -> C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\x64\Debug\08_List_NonBlockingAlgorithm.exe

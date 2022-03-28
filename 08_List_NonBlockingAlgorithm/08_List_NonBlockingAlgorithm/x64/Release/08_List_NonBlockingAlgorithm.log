@@ -1,0 +1,9 @@
+﻿  08_List_NonBlockingAlgorithm.cpp
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(274,11): warning C4101: 'pred': unreferenced local variable
+C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm\08_List_NonBlockingAlgorithm.cpp(515,9): warning C4101: 'pred': unreferenced local variable
+  Generating code
+  9 of 160 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  08_List_NonBlockingAlgorithm.vcxproj -> C:\Users\syj24\source\repos\MultiCore\08_List_NonBlockingAlgorithm\x64\Release\08_List_NonBlockingAlgorithm.exe

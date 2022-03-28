@@ -1,0 +1,12 @@
+﻿  09_큐_성긴동기화.cpp
+C:\Users\syj24\source\repos\MultiCore\09_큐_성긴동기화\09_큐_성긴동기화\09_큐_성긴동기화.cpp(121,1): warning C4311: 'reinterpret_cast': pointer truncation from 'NODE *volatile *' to 'int'
+C:\Users\syj24\source\repos\MultiCore\09_큐_성긴동기화\09_큐_성긴동기화\09_큐_성긴동기화.cpp(121,1): warning C4302: 'reinterpret_cast': truncation from 'NODE *volatile *' to 'int'
+C:\Users\syj24\source\repos\MultiCore\09_큐_성긴동기화\09_큐_성긴동기화\09_큐_성긴동기화.cpp(122,1): warning C4312: 'reinterpret_cast': conversion from 'int' to 'std::atomic_int *' of greater size
+C:\Users\syj24\source\repos\MultiCore\09_큐_성긴동기화\09_큐_성긴동기화\09_큐_성긴동기화.cpp(122,1): warning C4311: 'reinterpret_cast': pointer truncation from 'NODE *' to 'int'
+C:\Users\syj24\source\repos\MultiCore\09_큐_성긴동기화\09_큐_성긴동기화\09_큐_성긴동기화.cpp(122,1): warning C4302: 'reinterpret_cast': truncation from 'NODE *' to 'int'
+  Generating code
+  21 of 148 functions (14.2%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  09_큐_성긴동기화.vcxproj -> C:\Users\syj24\source\repos\MultiCore\09_큐_성긴동기화\x64\Release\09_큐_성긴동기화.exe

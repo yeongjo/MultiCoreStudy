@@ -1,0 +1,7 @@
+﻿  06_게으른동기화.cpp
+C:\Users\syj24\source\repos\MultiCore\06_게으른동기화\06_게으른동기화\06_게으른동기화.cpp(395,9): warning C4101: 'pred': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  06_게으른동기화.vcxproj -> C:\Users\syj24\source\repos\MultiCore\06_게으른동기화\x64\Release\06_게으른동기화.exe

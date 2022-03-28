@@ -1,0 +1,2 @@
+﻿  13_TBB.cpp
+LINK : fatal error LNK1104: cannot open file 'tbb12.lib'
